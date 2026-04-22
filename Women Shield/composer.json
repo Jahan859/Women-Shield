@@ -1,0 +1,9 @@
+{
+    "name": "women-shield/app",
+    "description": "Women Shield local PHP safety platform",
+    "type": "project",
+    "require": {
+        "php": "^8.2",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
